@@ -10,7 +10,7 @@ ODS Slack [https://opendatascience.slack.com](https://opendatascience.slack.com)
 
 Seattle area meetup [https://www.meetup.com/deep-learning-seattle/](https://www.meetup.com/deep-learning-seattle/)
 
-Address 2800 156th Ave SE Suite #110 GlobalLogic, Bellevue, WA 98007 [on the map](https://goo.gl/maps/ghKiJFQDL7n)
+Address 2800 156th Ave SE Suite #210 GlobalLogic, Bellevue, WA 98007 [on the map](https://goo.gl/maps/ghKiJFQDL7n)
 
 ODS learning group page [Passing cs231n together](https://github.com/Yorko/mlcourse.ai/wiki/Passing-cs231n-together) by Yury Kashnitskiy who leads the cs231n activity in ODS
 
