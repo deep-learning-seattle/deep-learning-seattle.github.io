@@ -27,17 +27,20 @@ ODS learning group page [Passing cs231n together](https://github.com/Yorko/mlcou
 [01/10/19](https://www.meetup.com/deep-learning-seattle/events/qlstnqyzcbnb/) Lectures #3 and #4. [svm](https://github.com/deep-learning-seattle/cs231n-assignment_1/blob/master/svm.ipynb) and [two_layer_net](https://github.com/deep-learning-seattle/cs231n-assignment_1/blob/master/two_layer_net.ipynb) due for peer review
 
 [01/17/19](https://www.meetup.com/deep-learning-seattle/events/qlstnqyzcbwb/) Lectures #5 and #6. [features](https://github.com/deep-learning-seattle/cs231n-assignment_1/blob/master/features.ipynb) due for peer review
-01/20/19 | A1 due in ODS. You can upload your solution [here](https://www.dropbox.com/request/t7BEfsBO6FsVrVgs7dGf)
+
+01/20/19 A1 due in ODS. You can upload your solution [here](https://www.dropbox.com/request/t7BEfsBO6FsVrVgs7dGf)
 
 [01/24/19](https://www.meetup.com/deep-learning-seattle/events/qlstnqyzcbgc/) Lectures #7 and #8
 
 [01/31/19](https://www.meetup.com/deep-learning-seattle/events/qlstnqyzcbpc/) Lectures #9 and #10
-02/03/19 | A2 due in ODS You can upload your solution [here](https://www.dropbox.com/request/SYokh4VUuIpZRFe1bPHM)
+
+02/03/19 A2 due in ODS You can upload your solution [here](https://www.dropbox.com/request/SYokh4VUuIpZRFe1bPHM)
 
 [02/07/19](https://www.meetup.com/deep-learning-seattle/events/qlstnqyzdbkb/) Lectures #11 and #12
 
 [02/14/19](https://www.meetup.com/deep-learning-seattle/events/qlstnqyzdbsb/) Lectures #13 and #14
-02/17/19 | A3 due in ODS. You can upload your solution [here](https://www.dropbox.com/request/omK1M8XNUH7KvGps3siF)
+
+02/17/19 A3 due in ODS. You can upload your solution [here](https://www.dropbox.com/request/omK1M8XNUH7KvGps3siF)
 
 [02/21/19](https://www.meetup.com/deep-learning-seattle/events/qlstnqyzdbcc/) Conclusions, discussion on the project
 
