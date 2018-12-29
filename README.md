@@ -68,9 +68,10 @@ TBD
 
 ## What to do during Week 1
 1. Setup your environment. Authors claim that we can avoid using GPU. I doubt but I'll try 
-2. Fork https://github.com/deep-learning-seattle/cs231n-assignment_1.git and clone your copy to your envionronment
+2. Fork https://github.com/deep-learning-seattle/cs231n-assignment_1.git and clone your copy to your environment
 3. Watch Lecture #1 and #2.
-4. Complete following assignments: [knn](https://github.com/deep-learning-seattle/cs231n-assignment_1/blob/master/knn.ipynb) and [softmax](https://github.com/deep-learning-seattle/cs231n-assignment_1/blob/master/softmax.ipynb)
+4. Read lecture notes - there are a lot of information there
+5. Complete following assignments: [knn](https://github.com/deep-learning-seattle/cs231n-assignment_1/blob/master/knn.ipynb) and [softmax](https://github.com/deep-learning-seattle/cs231n-assignment_1/blob/master/softmax.ipynb)
 
 # Kick off meeting presentation
 {::nomarkdown}
