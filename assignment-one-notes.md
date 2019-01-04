@@ -18,7 +18,7 @@ __Problem__:  predict_labels probably return scalar 0
 
 __Solution__: probably missing index i y_pred[i]
 
-# 4. from __future__ imports must occur at the beginning of the file
+# 3. from __future__ imports must occur at the beginning of the file
 
 __Solution__: just give it what it needs - put this line in the beginning of the first cell:
 
