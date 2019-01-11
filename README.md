@@ -20,11 +20,11 @@ ODS learning group page [Passing cs231n together](https://github.com/Yorko/mlcou
 
 [12/27/18](https://www.meetup.com/deep-learning-seattle/events/qlstnqyxqbkc/) Fails and pitfalls. Lessons learned from envinronment setup execrcise.
 
-<<<<<<<<<<<<<<<<<<<<<<< We are here
-
 [01/03/19](https://www.meetup.com/deep-learning-seattle/events/qlstnqyzcbfb/) Lectures #1 and #2. [knn](https://github.com/deep-learning-seattle/cs231n-assignment_1/blob/master/knn.ipynb) and [softmax](https://github.com/deep-learning-seattle/cs231n-assignment_1/blob/master/softmax.ipynb) due for peer-review
 
 [01/10/19](https://www.meetup.com/deep-learning-seattle/events/qlstnqyzcbnb/) Lectures #3 and #4. [svm](https://github.com/deep-learning-seattle/cs231n-assignment_1/blob/master/svm.ipynb) and [two_layer_net](https://github.com/deep-learning-seattle/cs231n-assignment_1/blob/master/two_layer_net.ipynb) due for peer review
+
+<<<<<<<<<<<<<<<<<<<<<<< We are here
 
 [01/17/19](https://www.meetup.com/deep-learning-seattle/events/qlstnqyzcbwb/) Lectures #5 and #6. [features](https://github.com/deep-learning-seattle/cs231n-assignment_1/blob/master/features.ipynb) due for peer review
 
